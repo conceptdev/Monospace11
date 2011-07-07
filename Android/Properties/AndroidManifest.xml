@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" 
+          android:installLocation="internalOnly" package="com.confapp.monospace11" android:versionCode="2" android:versionName="1.1">
+  <application android:label="Monospace11" android:theme="@style/CustomTheme" android:icon="@drawable/icon">
+  </application>
+  <uses-sdk android:minSdkVersion="8" />
+  <uses-permission android:name="android.permission.INTERNET" />
+</manifest>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+  <TextView
+    android:id="@+id/Title"
+   android:text="Sessions"
+   android:textSize="30dp"
+   android:textColor="#EA7D02"
+   android:layout_width="fill_parent"
+   android:layout_height="wrap_content"
+   android:paddingLeft="5dip"
+     />
+  
+  <!-- SESSIONS LIST -->
+  <ListView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:dividerHeight="1px"
+        android:id="@+id/List">
+  </ListView>
+  
+</LinearLayout>

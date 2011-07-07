@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:padding="5dip"
+>
+    <TextView
+      android:id="@+id/Time"
+      android:textStyle="bold"
+      android:textColor="#EA7D02"
+      android:layout_height="wrap_content"
+      android:layout_width="fill_parent"
+     />
+  
+    <TextView
+        android:id="@+id/Title"
+        android:textStyle="bold"
+        android:layout_height="fill_parent"
+        android:layout_width="fill_parent"
+    />
+
+    <TextView
+      android:id="@+id/Room"
+      android:textColor="#808080"
+      android:layout_height="fill_parent"
+      android:layout_width="fill_parent"
+      android:singleLine="true"
+      android:ellipsize="end"
+      />
+
+</LinearLayout>
