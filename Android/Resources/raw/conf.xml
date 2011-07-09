@@ -47,6 +47,20 @@
   <sp n="tbc" b="The schedule for the open space will have been determined the night before during the 'Start of the Open Space' session. The first session will start at 9am and the last session will end at 4pm." />
   
   
+  <se sd="2011-07-23T09:00:00" ed="2011-07-23T10:00:00" 
+      r="" 
+      c="registration" 
+      t="Registration" 
+      b="Microsoft New England Research and Development Center at One Memorial Drive, Cambridge, MA, 02142"
+      >
+    <SpeakerNames>
+      <string>tbc</string>
+    </SpeakerNames>
+    <TagStrings>
+      <string>Mono</string>
+    </TagStrings>
+  </se>
+
   <!-- KEYNOTE -->
   <se sd="2011-07-23T10:15:00" ed="2011-07-23T11:15:00" 
       r="" 
@@ -185,6 +199,9 @@
     </TagStrings>
   </se>
 
+
+  
+
   <!-- 24 9:00 -->
   <se sd="2011-07-24T09:00:00" ed="2011-07-24T10:00:00"
     r="Mann"
@@ -315,6 +332,20 @@
     </TagStrings>
   </se>
 
+  <se sd="2011-07-24T19:00:00" ed="2011-07-24T11:59:00"
+    r=""
+    c="party"
+    t="Attendee Party"
+    b="Howl at the Moon - 184 High Street, Boston, MA 02110. (617) 292-4695"
+    >
+    <SpeakerNames>
+      <string>tbc</string>
+    </SpeakerNames>
+    <TagStrings>
+      <string>Mono</string>
+    </TagStrings>
+  </se>
+
   <!-- 25 all day -->
   <se sd="2011-07-25T09:00:00" ed="2011-07-25T16:00:00"
     r=""
@@ -331,6 +362,7 @@
   </se>
 
   <t v="Mono">
+	<se>registration</se>
     <se>keynote</se>
     <se>svein</se>
     <se>paul</se>
