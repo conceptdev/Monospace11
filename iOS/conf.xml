@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Conference2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" 
+             v="1" 
+             n="Monospace11" 
+             url="monospace.us" 
+             abt="&lt;h2&gt;Join Us for Monospace 2011&lt;/h2&gt;Monospace provides developers a unique look at running their applications across all the platforms using Microsoft's .NET Framework by focusing on the Mono framework and open source .NET technologies. We will start with 2 days of talks and sessions, aiming to teach the attendees about the various technologies and innovations that currently exists. We will then end with a one day open space unconference where dialogs and conversations will help kick start the next wave of open source projects that will help the community remain competitive." 
+             sd="2011-07-23T00:00:00" 
+             ed="2011-07-25T00:00:00" 
+>
+  <lo t="Microsoft NERD Center" s="One Memorial Drive. Cambridge, MA 02142">
+    <l>
+      <X>-71.08363940740965</X>
+      <Y>42.36100515974955</Y>
+    </l>
+  </lo>
+  <locs t="Microsoft NERD Center" s="One Memorial Drive. Cambridge, MA 02142">
+    <l>
+      <X>-71.08363940740965</X>
+      <Y>42.36100515974955</Y>
+    </l>
+  </locs>
+  <locs t="Howl at the Moon" s="184 High Street Boston">
+    <l>
+      <X>-71.052567</X>
+      <Y>42.35668211871464</Y>
+    </l>
+  </locs>
+  
+  <sp n="Scott Olson" b="Scott Olson has spent the past 18 years building software and advising clients on the potential of software and mobility. He is a contributing writer for iPhone Life magazine, technical editor of iPad in the Enterprise: Developing and Deploying Business Applications, and his forthcoming book is tentatively titled Cross-Platform Mobile Development for the Enterprise. He leads the development team at ITR Mobility, and throughout his career has worked with many of the Fortune 500 companies including Best Buy, Target Corporation, Medtronic, and Prudential Financial. He believes that what is happening in the mobile software industry today will change the way people write and use software. " />
+  <sp n="Svein Arne Ackenhausen" b="Husband, father and co founder of Contango Consulting AS. I have been in the enterprise market for 10+ years working with automation and financial systems doing software development, design and training. The majority of my work experience comes from working with Microsoft technologies. However my OS of choice is Linux so I do a lot of my daily .Net development on Linux using mono." />
+  <sp n="Paul Betts" b="I'm a software engineer working in Office Labs at Microsoft, creating and testing new ideas for the future of Office, who recently graduated from The Ohio State University. In my spare time, I hack on some open-source software, play guitar and bass, and in general am within ε of really awesome." />
+  <sp n="Jonathan Chambers" b="Jonathan Chambers is a lead software developer at ANSYS, Inc. and has 8 years of C/C++/C# development experience. Jonathan has been a Mono contributor for the past 5 years, implementing the COM interop functionality in the mono runtime and doing the initial work on the mono runtime port to Windows x64." />
+  <sp n="Arne Claassen" b="Arne Claassen is a senior software developer at MindTouch and the lead developer of DReAM, MindTouch's open source REST framework. Arne has been involved in large scale web applications and distributed systems for over 10 years and has been a C# developer for the last 7 years. His particular focus is on parallel and asynchronous programming and how to make it writing code that scales over multiple processors and servers more accessible and intuitive." />
+  <sp n="Justin Dearing" b="Justin Dearing has been working in IT since late 2002. He has served on both the operations and development and operations sides of the house and has worked with the Windows, Unix and AS/400 (iSeries) platform. He is a fan of relational and non-relational data stores including Microsoft SQL Server, Postgres and MongoDB. In his spare time, Justin Blogs at justaprogrammer.net and contributes to various open source projects including MongoDB. He has made minor contributions to windows compatibility of the core server as well as to the C# driver." />
+  <sp n="Rob Eisenberg" b="Rob Eisenberg is the Chief Architect at Blue Spire, a software development firm specializing in UI architecture and engineering. He is coauthor of Sam's Teach Yourself WPF in 24 Hours, the architect and lead developer of the Caliburn.Micro Framework for Xaml-based technologies and a Silverlight MVP. When not coding, Rob enjoys swing dancing, making artisan cheese and playing drums." />
+  <sp n="Andreia Gaita" b="Andreia Gaita is a member of the Mono project team, hailing from the sunny city of Lisbon, Portugal. For the past 13 years she has been involved in the development of applications, services and libraries that deal with interoperability, cross-platform and the web. For the last four she has been working on several different areas of the Mono project, from implementing Winforms and gluezilla to embedding browser engines and bindings. Currently, she spends her time hacking on Moonlight, maintaining browser bindings and working with her SoC student to improve C++ support on Mono." />
+  <sp n="Frank A. Krueger" b="Frank has been programming professionally for 13 years with most of that time spent on the Windows platform. He has rejected his Electrical Engineering education and focuses today on mobile app and web app development using a variety of platforms. Past projects include embedded engine management system development, scientific simulators, tooling for graphics and game developers, online retail, and control software for naval ships. He runs a small consulting business in Seattle, WA that enables him to work on a variety of projects in a variety of industries. Today he is most excited about the mobile platform and opportunities for advancing the state of the art of the human-machine interface." />
+  <sp n="Richard Minerich" b="Richard Minerich is a Researcher at Bayard Rock, a new company dedicated to applying the cutting edge from academia to solve real world problems. He's also been an F# speaker, blogger and writer for about three years now. He hopes to be your guide in understanding the wondrous world of functional programming. His most recent work is 'Professional F# 2.0' which hit the shelves just months ago. He was also recently awarded F# MVP of the Year for his work in teaching F# to the Microsoft community." />
+  <sp n="Joe Pamer" b="Joe Pamer is the Development Lead for F# at Microsoft." />
+  <sp n="Dale Ragan" b="Dale Ragan has been a software professional since 2001. He studied electrical engineering at The Ohio State University and proudly served in The United State Army honorably." />
+  <sp n="Greg Shackles" b="Greg Shackles is a Senior Developer at OLO Online Ordering, based in New York City. He is an active member of the .NET community as well, and speaks regularly at user groups and regional events. In addition to technology, he is also an avid fan of heavy metal, baseball, and craft beer, sometimes all at once. His blog, which focuses mostly on .NET topics, can be found at www.gregshackles.com" />
+  <sp n="John Sheehan" b="John Sheehan is a Developer Evangelist for Twilio, a cloud communications provider that offers a simple RESTful API for sending and receiving phone calls and SMS text messages from your applications. John is also the author of RestSharp, a popular and award-winning .NET REST and HTTP API client library. John has been developing for the web with Microsoft technologies since 1996 and currently resides in San Francisco, CA." />
+  <sp n="Jason Sirota" b="Jason Sirota is the Director, Application Architecture for The Knot, Inc. He spends his days discussing caching, scalable system design, API development and cloud platforms. In his spare time, he works on a variety of projects on the .NET platform with Microsoft and partners. The Knot Inc. is the premier media company devoted to weddings, pregnancy and everything in between, providing young women with the trusted information, products and advice they need to guide them through the most transformative events of their lives." />
+  <sp n="Travis Smith" b="Travis focuses on .NET technologies with his day job, helping to keep enterprises truly interconnected in close to real time both on the desktop and on mobile devices. Travis also contributes to and maintains a number of open source projects, primarily on the .NET platform. You can find out what Travis is currently working on in the open source world at his github page. Travis also has a love for learning new languages and platforms." />
+  <sp n="Benjamin van der Veen" b="By day, I am a UX Designer at Emma where I sip coffee and design and build decidedly user-focussed software. By night, I sip beer and hack on Kayak, a decidedly developer-focussed C# network library. I live in Portland, Oregon." />
+
+  <sp n="tbc" b="The schedule for the open space will have been determined the night before during the 'Start of the Open Space' session. The first session will start at 9am and the last session will end at 4pm." />
+  
+  
+  <se sd="2011-07-23T09:00:00" ed="2011-07-23T10:00:00" 
+      r="" 
+      c="registration" 
+      t="Registration" 
+      b="Microsoft New England Research and Development Center at One Memorial Drive, Cambridge, MA, 02142"
+      >
+    <SpeakerNames>
+      <string>tbc</string>
+    </SpeakerNames>
+    <TagStrings>
+      <string>Mono</string>
+    </TagStrings>
+  </se>
+
+  <!-- KEYNOTE -->
+  <se sd="2011-07-23T10:15:00" ed="2011-07-23T11:15:00" 
+      r="" 
+      c="keynote" 
+      t="Keynote: Cross-platform Mobility: The Rise of Mono in the Enterprise" 
+      b="The introduction of the iPhone, iPad, and Android has changed the mobile computing landscape, and the impact these devices are making on corporate IT is no less significant. The mobile revolution is all about the apps, and expectations of both device capabilities and user experience have profoundly changed. Consumer owned devices are entering the workplace at an unprecedented level, and rather than the IT department dictating device choice the average worker is driving adoption. This seismic shift in the power structure of enterprise IT is creating a huge demand for cross-platform development solutions. CEO’s and CIO’s across industries have made significant investments in C# and .NET technologies. Mono empowers them to bring these technologies to new platforms, and is poised to make a huge impact in the enterprise."
+      >
+    <SpeakerNames>
+      <string>Scott Olson</string>
+    </SpeakerNames>
+    <TagStrings>
+      <string>Mono</string>
+      <string>Mobile</string>
+    </TagStrings>
+  </se>
+  
+  <!-- 23 11:30 -->
+  <se sd="2011-07-23T11:30:00" ed="2011-07-23T12:30:00"
+    r="Mann"
+    c="greg"
+    t="Introduction to Android development using .Net and Mono"
+    b="The Android platform has become a major player in the mobile space, but requires writing applications in Java. With the introduction of Mono for Android, .NET developers are now able to leverage the platform and tools they know to write Android applications. This session will act as an introduction to Android development using Mono, starting with the fundamental aspects of the Android architecture, and then diving into a lot of code."
+      >
+    <SpeakerNames>
+      <string>Greg Shackles</string>
+    </SpeakerNames>
+    <TagStrings>
+      <string>Mono</string>
+      <string>Mobile</string>
+    </TagStrings>
+  </se>
+
+  <se sd="2011-07-23T11:30:00" ed="2011-07-23T12:30:00"
+    r="Sampson"
+    c="john"
+    t="Using APIs to connect people to your app and each other"
+    b="Can your web app handle incoming email, make phone calls or connect two people to a live video chat? This session will explore three cloud services that allow you to accomplish these tasks via a simple API. We'll explore the SendGrid Parse API for handling incoming email, Twilio's API for sending and receiving phone calls and text messages and the OpenTok API from TokBox for video conferencing in a web browser."
+      >
+    <SpeakerNames>
+      <string>John Sheehan</string>
+    </SpeakerNames>
+    <TagStrings>
+      <string>Mono</string>
+    </TagStrings>
+  </se>
+
+  <!-- 23 13:45 -->
+  <se sd="2011-07-23T13:45:00" ed="2011-07-23T14:45:00"
+    r="Mann"
+    c="travis"
+    t="Cross platform mobile data access patterns"
+    b="Developing applications for mobile devices can be a challenge and working with multiple platforms this can become more challenging. iOS and Android devices come with sqlite but Windows Phone 7 devices are left in the cold, out of the box. Finding common ground for storage and data access patterns that can be reused across platforms when leveraging the mono tools (MonoDroid, MonoTouch) will be discussed and demoed."
+    >
+    <SpeakerNames>
+      <string>Travis Smith</string>
+    </SpeakerNames>
+    <TagStrings>
+      <string>Mono</string>
+      <string>Mobile</string>
+      <string>Data</string>
+    </TagStrings>
+  </se>
+
+  <se sd="2011-07-23T13:45:00" ed="2011-07-23T14:45:00"
+    r="Sampson"
+    c="richard"
+    t="F# and Mono, best friends forever"
+    b="With F# being the only open source language shipping with Visual Studio, it and Mono have a special relationship. Now that the Microsoft F# team's open source drops have been directly integrated with mono, F# is the only mono language implementation which is exactly the same as on the CLR. This means that as F# grows and matures at Microsoft, you can be sure that the latest features will be available almost immediately in Mono. Come learn about what F# is and how you can start using it in Mono today!"
+      >
+    <SpeakerNames>
+      <string>Richard Minerich</string>
+    </SpeakerNames>
+    <TagStrings>
+      <string>Mono</string>
+      <string>F#</string>
+    </TagStrings>
+  </se>
+
+  <se sd="2011-07-23T13:45:00" ed="2011-07-23T14:45:00"
+    r="Adams"
+    c="rob"
+    t="Presentation Patterns Case Study"
+    b="In this talk we'll look at several real-world Xaml applications with non-trivial user interface designs. We'll look at the unique challenges that each application provided and see how those were mitigated through the application of various presentation patterns."
+      >
+    <SpeakerNames>
+      <string>Rob Eisenberg</string>
+    </SpeakerNames>
+    <TagStrings>
+      <string>Mono</string>
+    </TagStrings>
+  </se>
+
+  <!-- 23 15:00 -->
+  <se sd="2011-07-23T15:00:00" ed="2011-07-23T16:00:00"
+    r="Mann"
+    c="frank"
+    t="Problems and solutions for mobile app developers"
+    b="This talk will present three recurring problems faced by mobile developers while building their apps and will focus on code patterns and strategies used to solve them. The selection is based on problems the presenter continuously encounters and have been identified as those that prevent him from having the most fun. * The Disconnected Internet Device * Minimizing Code with Multiple UIs and Platforms * Discovering and Squashing Bugs. Even though there are only three topics, each one could be an entire talk on its own. This means that this talk will be a whirlwind through ideas and practical solutions. There will be an emphasis on mobile app development using the Mono platform since that seems to be all the presenter can think about these days."
+      >
+    <SpeakerNames>
+      <string>Frank A. Krueger</string>
+    </SpeakerNames>
+    <TagStrings>
+      <string>Mono</string>
+      <string>Mobile</string>
+    </TagStrings>
+  </se>
+
+  <se sd="2011-07-23T15:00:00" ed="2011-07-23T16:00:00"
+    r="Sampson"
+    c="jason"
+    t="Asynchronous memcached with a side of Ketchup and Membase"
+    b="Developing scalable applications requires data caching of commonly used data, coupled with Asynchronous programming, this is a powerful tool for maximizing the throughput of your application. Learn how to harness the power of Asynchronous IO in your application by caching data in memcached asynchronously using Membase (membase.org) and the asynchronous Ketchup driver for memcached."
+      >
+    <SpeakerNames>
+      <string>Jason Sirota</string>
+    </SpeakerNames>
+    <TagStrings>
+      <string>Mono</string>
+      <string>Data</string>
+    </TagStrings>
+  </se>
+
+  <se sd="2011-07-23T15:00:00" ed="2011-07-23T16:00:00"
+    r="Adams"
+    c="joe"
+    t="A tour of the F# compiler"
+    b="Have an idea for an F# language extension, refactoring tool or MonoDevelop plugin? Want to learn more about our compiler, or compilers for functional languages in general? In this talk, I’ll discuss the F# compiler and runtime’s overall architecture, and walk through F#’s compilation process - from parse, to typecheck to codegen. The source code to the F# compiler and runtime is currently available under the Apache license at fsharppowerpack.codeplex.com, so feel free to study ahead and bring questions!"
+    >
+    <SpeakerNames>
+      <string>Joe Pamer</string>
+    </SpeakerNames>
+    <TagStrings>
+      <string>Mono</string>
+      <string>F#</string>
+    </TagStrings>
+  </se>
+
+
+  
+
+  <!-- 24 9:00 -->
+  <se sd="2011-07-24T09:00:00" ed="2011-07-24T10:00:00"
+    r="Mann"
+    c="dale"
+    t="Let me introduce my Moncai!"
+    b="Cloud services are changing the way we approach developing application's. Learn how Platform-as-a-Service (PaaS) takes it a step further and helps you forget about server's and focus on your problems. We'll start by discussing the philosophies behind PaaS and then dive into using Moncai to deploy, build, and scale your web, mobile, or social application's written in .NET. "
+      >
+    <SpeakerNames>
+      <string>Dale Ragan</string>
+    </SpeakerNames>
+    <TagStrings>
+      <string>Mono</string>
+    </TagStrings>
+  </se>
+  <se sd="2011-07-24T09:00:00" ed="2011-07-24T10:00:00"
+    r="Sampson"
+    c="arne"
+    t="Forget about threads: tasks, asynchronous methods &amp; coroutines"
+    b="Asynchronous programming using callbacks and continuation passing styles have been around in .NET since the start, but have always made code harder to read and comprehend. Coroutines, as implemented in MindTouch's DReAM framework or the async method and await constructs coming in C# 5.0, aim to make asynchronous programming simpler by retaining sequential programming workflows, while allowing async suspension of code waiting for completions. This talk will present a brief overview of available asychrony patterns, their pros and cons, and delve into a tutorial on how to use either DReAM coroutines or C# 5.0 asynchronous methods, as well as how the two implementations compare and contrast. Learn how to write code that will take advantage of multi-core architectures and avoid blocking on I/O without having to touch a thread or a lock statement in the process."
+    >
+    <SpeakerNames>
+      <string>Arne Claassen</string>
+    </SpeakerNames>
+    <TagStrings>
+      <string>Mono</string>
+    </TagStrings>
+  </se>
+
+  <!-- 24 10:15 -->
+  <se sd="2011-07-24T10:15:00" ed="2011-07-24T11:15:00"
+    r="Mann"
+    c="svein"
+    t="Asynchronous programming made simple through messaging"
+    b="Multi core systems are everywhere these days. How do we adapt our designs to fit this future? There are several techniques out there for utilizing multi core systems in our applications. There is the Task Parallel Library, Parallel Linq and even plain old fork and join. However these are all techniques that will help you work with parallel execution in a synchronous setting. Mixing synchronous and parallel is no match made in heaven and can become quite painful. So why are we still sticking to synchronous designs?"
+      >
+    <SpeakerNames>
+      <string>Svein Arne Ackenhausen</string>
+    </SpeakerNames>
+    <TagStrings>
+      <string>Mono</string>
+    </TagStrings>
+  </se>
+  <se sd="2011-07-24T10:15:00" ed="2011-07-24T11:15:00"
+    r="Sampson"
+    c="justin"
+    t="Using MongoDB on Mono"
+    b="In late 2010 10gen began working on their own driver to officially support using MongoDB from .NET on Windows. The community promptly began submitting patches to make it work in Mono. Today the driver works quite well in Mono. This talk will include a brief introduction to MongoDB, but will focus on interacting with it in Mono via the official 10gen driver. Techniques for handling business logic in application code, such as LINQ will be discussed. This will be a very code centric talk."
+    >
+    <SpeakerNames>
+      <string>Justin Dearing</string>
+    </SpeakerNames>
+    <TagStrings>
+      <string>Mono</string>
+      <string>Data</string>
+    </TagStrings>
+  </se>
+
+  <!-- 24 11:30 -->
+  <se sd="2011-07-24T11:30:00" ed="2011-07-24T12:30:00"
+    r="Mann"
+    c="paul"
+    t="Functional Async UI Programming using Reactive Extensions and ReactiveUI"
+    b="For many modern UI applications, managing multiple asynchronous calls whether they be web service calls or calculations in the background, is now a de-facto requirement; however, our tools and frameworks for doing so, Events, are quite primitive and make even simple compositions into complex state management. The Reactive Extensions for .NET greatly simplifies this task, by allowing you to compose event streams in a declarative fashion. On top of Rx, I've built a MVVM framework called ReactiveUI, that allows you to elegantly combine changing Model or ViewModel properties into composite properties to build testable UIs with less effort, even simulating a series of events instantly in a unit test runner using the virtual time scheduler features of Rx."
+      >
+    <SpeakerNames>
+      <string>Paul Betts</string>
+    </SpeakerNames>
+    <TagStrings>
+      <string>Mono</string>
+    </TagStrings>
+  </se>
+  <se sd="2011-07-24T11:30:00" ed="2011-07-24T12:30:00"
+    r="Sampson"
+    c="jonathan"
+    t="Cross Platform .Net Desktop Development"
+    b="This talk will discuss planning, developing, testing, and deploying a desktop application leveraging .Net technology. Well known applications and their approaches (Banshee, MonoDevelop, etc) will be mentioned, but special focus will be given to alternative approaches and topics. A sample application will be discussed (and code provided) as a walkthrough of the various techniques and pitfalls that exist."
+    >
+    <SpeakerNames>
+      <string>Jonathan Chambers</string>
+    </SpeakerNames>
+    <TagStrings>
+      <string>Mono</string>
+    </TagStrings>
+  </se>
+
+
+  <!-- 24 13:45 -->
+  <se sd="2011-07-24T13:45:00" ed="2011-07-24T14:45:00"
+    r="Mann"
+    c="benjamin"
+    t="Intro to OWIN and Gate"
+    b="OWIN is an open hosting specification for .NET web applications. It enables you to create web applications which are portable across hosting environments and allows application components to be composed as a pipeline of middleware. This session will give a brief overview of the rationale for OWIN and how it works, and introduce the Gate library, which allows you to easily construct web application pipelines and host them in a variety of scenarios."
+      >
+    <SpeakerNames>
+      <string>Benjamin van der Veen</string>
+    </SpeakerNames>
+    <TagStrings>
+      <string>Mono</string>
+    </TagStrings>
+  </se>
+  <se sd="2011-07-24T13:45:00" ed="2011-07-24T14:45:00"
+    r="Sampson"
+    c="andreia"
+    t="Mono and C++ - Updates from the interoperability world"
+    b="One of Mono's long-standing limitations is the C++ interoperability, or lack thereof. Traditionally, using a C++ library from C# involved creating a C glue library that served as middleman, proxying all the calls into C++ and back. by creating a flat level of C calls between the two, we lose, among other things, information in terms of object hierarchy, the ability to subclass, and end up with a rather large list of cryptic pinvokes - ugly code, in short."
+    >
+    <SpeakerNames>
+      <string>Andreia Gaita</string>
+    </SpeakerNames>
+    <TagStrings>
+      <string>Mono</string>
+    </TagStrings>
+  </se>
+
+
+  <!-- 24 15:00 -->
+  <se sd="2011-07-24T15:00:00" ed="2011-07-24T16:00:00"
+    r=""
+    c="openspace1"
+    t="Start of the Open Space"
+    b="The schedule for the open space will have been determined the night before during the 'Start of the Open Space' session. The first session will start at 9am and the last session will end at 4pm."
+      >
+    <SpeakerNames>
+      <string>tbc</string>
+    </SpeakerNames>
+    <TagStrings>
+      <string>Mono</string>
+    </TagStrings>
+  </se>
+
+  <se sd="2011-07-24T19:00:00" ed="2011-07-24T11:59:00"
+    r=""
+    c="party"
+    t="Attendee Party"
+    b="Howl at the Moon - 184 High Street, Boston, MA 02110. (617) 292-4695"
+    >
+    <SpeakerNames>
+      <string>tbc</string>
+    </SpeakerNames>
+    <TagStrings>
+      <string>Mono</string>
+    </TagStrings>
+  </se>
+
+  <!-- 25 all day -->
+  <se sd="2011-07-25T09:00:00" ed="2011-07-25T16:00:00"
+    r=""
+    c="openspace2"
+    t="Open Space (all day)"
+    b="The schedule for the open space will have been determined the night before during the 'Start of the Open Space' session. The first session will start at 9am and the last session will end at 4pm."
+      >
+    <SpeakerNames>
+      <string>tbc</string>
+    </SpeakerNames>
+    <TagStrings>
+      <string>Mono</string>
+    </TagStrings>
+  </se>
+
+  <t v="Mono">
+	<se>registration</se>
+    <se>keynote</se>
+    <se>svein</se>
+    <se>paul</se>
+    <se>jonathan</se>
+    <se>arne</se>
+    <se>justin</se>
+    <se>rob</se>
+    <se>andreia</se>
+    <se>frank</se>
+    <se>richard</se>
+    <se>joe</se>
+    <se>dale</se>
+    <se>greg</se>
+    <se>john</se>
+    <se>jason</se>
+    <se>travis</se>
+    <se>benjamin</se>
+  </t>
+  <t v="Mobile">
+    <se>keynote</se>
+    <se>frank</se>
+    <se>greg</se>
+    <se>travis</se>
+  </t>
+  <t v="Data">
+    <se>justin</se>
+    <se>jason</se>
+    <se>travis</se>
+  </t>
+  <t v="F#">
+    <se>richard</se>
+    <se>joe</se>
+  </t>
+</Conference2>

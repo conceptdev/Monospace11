@@ -1,5 +1,11 @@
 Monospace11 is licensed under the terms of the MIT X11 license.
 
+The MonoTouch.Dialog project was developed by Miguel de Icaza
+and id licensed also under the MIT X11 license (iOS project).
+
+The SQlite-net binding was developed by Krueger Systems and is
+licensed also under the MIT X11 license (iOS project).
+
 The MIT X11 license follows:
 
 Permission is hereby granted, free of charge, to any person obtaining a copy

@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monospace11", "Monospace11.csproj", "{EFAEF3CA-CBCF-49E2-A52A-069372D79667}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonoTouch.Dialog", "MonoTouch.Dialog\MonoTouch.Dialog.csproj", "{3FFBFFF8-5560-4EDE-82E5-3FFDFBBA8A50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Distribution|iPhone = Distribution|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FFBFFF8-5560-4EDE-82E5-3FFDFBBA8A50}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{3FFBFFF8-5560-4EDE-82E5-3FFDFBBA8A50}.Debug|iPhone.Build.0 = Debug|iPhone
+		{3FFBFFF8-5560-4EDE-82E5-3FFDFBBA8A50}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{3FFBFFF8-5560-4EDE-82E5-3FFDFBBA8A50}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{3FFBFFF8-5560-4EDE-82E5-3FFDFBBA8A50}.Distribution|iPhone.ActiveCfg = Distribution|iPhone
+		{3FFBFFF8-5560-4EDE-82E5-3FFDFBBA8A50}.Distribution|iPhone.Build.0 = Distribution|iPhone
+		{3FFBFFF8-5560-4EDE-82E5-3FFDFBBA8A50}.Release|iPhone.ActiveCfg = Release|iPhone
+		{3FFBFFF8-5560-4EDE-82E5-3FFDFBBA8A50}.Release|iPhone.Build.0 = Release|iPhone
+		{3FFBFFF8-5560-4EDE-82E5-3FFDFBBA8A50}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{3FFBFFF8-5560-4EDE-82E5-3FFDFBBA8A50}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{EFAEF3CA-CBCF-49E2-A52A-069372D79667}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{EFAEF3CA-CBCF-49E2-A52A-069372D79667}.Debug|iPhone.Build.0 = Debug|iPhone
+		{EFAEF3CA-CBCF-49E2-A52A-069372D79667}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{EFAEF3CA-CBCF-49E2-A52A-069372D79667}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{EFAEF3CA-CBCF-49E2-A52A-069372D79667}.Distribution|iPhone.ActiveCfg = Distribution|iPhone
+		{EFAEF3CA-CBCF-49E2-A52A-069372D79667}.Distribution|iPhone.Build.0 = Distribution|iPhone
+		{EFAEF3CA-CBCF-49E2-A52A-069372D79667}.Release|iPhone.ActiveCfg = Release|iPhone
+		{EFAEF3CA-CBCF-49E2-A52A-069372D79667}.Release|iPhone.Build.0 = Release|iPhone
+		{EFAEF3CA-CBCF-49E2-A52A-069372D79667}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{EFAEF3CA-CBCF-49E2-A52A-069372D79667}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Monospace11.csproj
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$1.DirectoryNamespaceAssociation = None
+		$1.ResourceNamePolicy = FileFormatDefault
+		$0.StandardHeader = $2
+		$2.Text = 
+		$2.inheritsSet = Apache2License
+		$0.VersionControlPolicy = $3
+		$3.inheritsSet = Mono
+		$0.ChangeLogPolicy = $4
+		$4.UpdateMode = None
+		$4.MessageStyle = $5
+		$5.LineAlign = 0
+		$4.inheritsSet = Mono
+		description = MIX10 Conference app for iPhone
+		version = 1.0
+	EndGlobalSection
+EndGlobal
