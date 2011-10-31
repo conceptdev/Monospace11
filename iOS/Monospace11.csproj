@@ -6,19 +6,13 @@
     <ProductVersion>9.0.21022</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{EFAEF3CA-CBCF-49E2-A52A-069372D79667}</ProjectGuid>
-    <ProjectTypeGuids>{E613F3A2-FE9C-494F-B74E-F63BCB86FEA6};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <ProjectTypeGuids>{6BC8ED88-2882-458C-8E55-DFD12B67127B};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <OutputType>Exe</OutputType>
     <RootNamespace>Monospace11</RootNamespace>
     <AssemblyName>Monospace11</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
-    <BundleIdentifier>com.confapp.monospace11</BundleIdentifier>
-    <BundleDisplayName>Monospace11</BundleDisplayName>
-    <BundleIcon>icon_57.png</BundleIcon>
     <ReleaseVersion>1.0</ReleaseVersion>
-    <BundleVersion>1.0</BundleVersion>
-    <MtouchMinimumOS>4.0</MtouchMinimumOS>
     <MtouchSdkVersion>4.2</MtouchSdkVersion>
-    <BundleIconHigh>icon_114.png</BundleIconHigh>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|iPhoneSimulator' ">
     <DebugSymbols>true</DebugSymbols>
@@ -182,7 +176,7 @@
     <Content Include="icon_114.png" />
   </ItemGroup>
   <ItemGroup>
-    <Page Include="TabSchedule\SessionCellController.xib" />
+    <InterfaceDefinition Include="TabSchedule\SessionCellController.xib" xmlns="" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="MonoTouch.Dialog\MonoTouch.Dialog.csproj">

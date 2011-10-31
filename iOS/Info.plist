@@ -1,17 +1,28 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-  <dict>
-    <key>MinimumOSVersion</key>
-    <string>3.0</string>
-    <key>SBUsesNetwork</key>
-    <true />
-    <key>UIStatusBarStyle</key>
-    <string>UIStatusBarStyleOpaqueBlack</string>
-    <key>UISupportedInterfaceOrientations</key>
-    <array>
-      <string>UIInterfaceOrientationPortrait</string>
-      <string>UIInterfaceOrientationPortraitUpsideDown</string>
-    </array>
-  </dict>
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>Monospace11</string>
+	<key>CFBundleIconFiles</key>
+	<array>
+		<string>icon_57.png</string>
+		<string>icon_114.png</string>
+	</array>
+	<key>CFBundleIdentifier</key>
+	<string>com.confapp.monospace11</string>
+	<key>CFBundleVersion</key>
+	<string>1.0</string>
+	<key>MinimumOSVersion</key>
+	<string>3.0</string>
+	<key>SBUsesNetwork</key>
+	<true/>
+	<key>UIStatusBarStyle</key>
+	<string>UIStatusBarStyleOpaqueBlack</string>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+	</array>
+</dict>
 </plist>
